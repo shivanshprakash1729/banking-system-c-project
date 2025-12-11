@@ -2,8 +2,8 @@
 -----------------------------------------------------
               BANKING SYSTEM IN C
              (BINARY FILE HANDLING)
-               Author: Adarsh Raj
-             Roll No: AP25110010009
+               Author: Shivansh Prakash
+             Roll No: AP25110010359
 -----------------------------------------------------
 
 # 📌 PROJECT TITLE
